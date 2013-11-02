@@ -2,18 +2,19 @@ prototipo3
 ==========
 
 Patch di Pure Data:
+cartella drums:
 - cassa
 - rullante
 - hi hat
 - batteria
-
 Patches che riproducono le sonorit√† delle parti ritmiche dell'applicativo del Prototipo3.
 
+cartella bass:
 - bass
 - bass_adsr
-
 Patches che riproducono le sonorit√† delal linea melodica di basso, utilizzato in Prototipo3
 
+cartella pads:
 Le patch sono realizzate con PD Vanilla 0.44
 
 Le patches 'cassa', 'rullante' e 'hihat' sono pienamente funzionanti come standalone. 

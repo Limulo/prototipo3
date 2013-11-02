@@ -7,14 +7,20 @@ cartella drums:
 - rullante
 - hi hat
 - batteria
-Patches che riproducono le sonorit√† delle parti ritmiche dell'applicativo del Prototipo3.
+Patches che riproducono le sonorita' delle parti ritmiche dell'applicativo del Prototipo3.
 
 cartella bass:
 - bass
 - bass_adsr
-Patches che riproducono le sonorit√† delal linea melodica di basso, utilizzato in Prototipo3
+Patches che riproducono le sonorita' della linea melodica di basso, utilizzato in Prototipo3
 
 cartella pads:
+- pads
+- pad_adsr
+- single_voice
+Patches che riproducono le sonorita' della linea armonica di sintetizzatore, utilizzato in Prototipo3
+
+
 Le patch sono realizzate con PD Vanilla 0.44
 
 Le patches 'cassa', 'rullante' e 'hihat' sono pienamente funzionanti come standalone. 
